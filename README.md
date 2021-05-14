@@ -15,6 +15,6 @@ Take a look back through Internet Meme history!
 ![Markiplier](https://github.com/Noah670/BriefMemeHistory/blob/master/screens/MarkiplierE.gif)
 
 
-## Download Brief Internet Meme History 
+## [Download Brief Internet Meme History](https://github.com/Noah670/BriefMemeHistory/releases/download/1.0.0/Brief_Meme_Portable.exe) 
 
 
