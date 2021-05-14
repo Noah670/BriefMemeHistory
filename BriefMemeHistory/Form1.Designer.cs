@@ -608,7 +608,7 @@
             this.radioButton25.UseVisualStyleBackColor = true;
             this.radioButton25.CheckedChanged += new System.EventHandler(this.radioButton25_CheckedChanged);
             // 
-            // label26
+            // label2r6
             // 
             this.label26.Location = new System.Drawing.Point(849, 634);
             this.label26.Name = "label26";

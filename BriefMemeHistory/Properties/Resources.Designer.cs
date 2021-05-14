@@ -45,7 +45,7 @@ namespace myMenu.Properties
                 if ((resourceMan == null))
                 {
                     global::System.Resources.ResourceManager temp =
-                        new global::System.Resources.ResourceManager("myMenu.Properties.Resources",
+                        new global::System.Resources.ResourceManager("BriefMemeHistory.Properties.Resources",
                             typeof(Resources).Assembly);
                     resourceMan = temp;
                 }

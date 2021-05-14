@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myMenu", "myMenu\myMenu.csproj", "{06C6743D-5CD1-42C4-9BFA-46C3A7E34315}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BriefMemeHistory", "BriefMemeHistory\BriefMemeHistory.csproj", "{06C6743D-5CD1-42C4-9BFA-46C3A7E34315}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
