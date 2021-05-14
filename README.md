@@ -1,2 +1,5 @@
-# BriefMemeHistory
-A Brief Internet Meme History
+# Brief Internet Meme History
+
+Travel through Internet Meme history!
+
+
