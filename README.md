@@ -10,4 +10,6 @@ Take a look back through Internet Meme history!
 
 ## To Modern Internet Memes such as _*E*_
 
+![Markiplier](https://github.com/Noah670/BriefMemeHistory/blob/master/screens/MarkiplierE.gif)
+
 
