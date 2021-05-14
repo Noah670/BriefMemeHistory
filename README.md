@@ -1,2 +1,2 @@
 # BriefMemeHistory
-A Brieft Internet Meme History
+A Brief Internet Meme History
