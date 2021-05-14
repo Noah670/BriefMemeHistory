@@ -1,0 +1,10 @@
+C:\Users\Noah\RiderProjects\myMenu\myMenu\bin\Debug\myMenu.exe.config
+C:\Users\Noah\RiderProjects\myMenu\myMenu\bin\Debug\myMenu.exe
+C:\Users\Noah\RiderProjects\myMenu\myMenu\bin\Debug\myMenu.pdb
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.csprojAssemblyReference.cache
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.Properties.Resources.resources
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.csproj.GenerateResource.cache
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.csproj.CoreCompileInputs.cache
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.exe
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.pdb
+C:\Users\Noah\RiderProjects\myMenu\myMenu\obj\Debug\myMenu.Form1.resources
